@@ -1,0 +1,16 @@
+.characterClass{
+	margin: 5px;
+	padding: 7px;
+}
+
+#addCharacter{
+	margin: 5px 0px 0px 0px;
+}
+
+#images{
+	width: auto;
+	height: auto;
+	color: white;
+	float: left;
+	padding: 20px;
+}
